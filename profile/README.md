@@ -11,4 +11,4 @@ The name is short for "**Ai**doru **M**edia **in**formations". the suffix word "
 ## 문의 (Inquiries)
 문의사항이 있으시면 [메일을 보내주시거나](mailto:themunyang21@naver.com) [카카오톡 오픈챗](https://open.kakao.com/me/NabiYuka)으로 연락해주시면 감사하겠습니다.
 
-If you have questions or inquiries about this project, [send a mail](mailto:hoshiyama@naruka.me) or contact via [Telegram](https://t.me/senarin).
+If you have questions or inquiries about this project, [send a mail](mailto:hoshino@naruka.me) or contact via [Telegram](https://t.me/senarin).
